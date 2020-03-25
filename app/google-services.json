@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294130653130",
+    "firebase_url": "https://tiketapp-fa0b5.firebaseio.com",
+    "project_id": "tiketapp-fa0b5",
+    "storage_bucket": "tiketapp-fa0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294130653130:android:0d137701f05d43beaf2133",
+        "android_client_info": {
+          "package_name": "com.example.tiketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294130653130-ap0dr2n3s4b2eqcds1fbuet9uqioivmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29fRaMlkIUtBKW7lQ2d31QdqC-Ay7Lb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294130653130-ap0dr2n3s4b2eqcds1fbuet9uqioivmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
